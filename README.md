@@ -1,5 +1,5 @@
 Input:
-
+```
 XXXXXXXXXX
 X........X
 X.S.....BX
@@ -10,6 +10,7 @@ X..XXX...X
 X....B...X
 X....C...X
 XXXXXXXXXX
+```
 
 Output:
 16
