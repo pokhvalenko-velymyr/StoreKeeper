@@ -1,13 +1,22 @@
 Input:
 XXXXXXXXXX
+
 X........X
+
 X.S.....BX
+
 X...X....X
+
 X...X.XX.X
+
 X...X.X..X
+
 X..XXX...X
+
 X....B...X
+
 X....C...X
+
 XXXXXXXXXX
 
 Output:
