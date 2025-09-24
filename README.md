@@ -2,7 +2,7 @@ Input:
 ```
 XXXXXXXXXX
 X........X
-X.S.....BX
+X.S......X
 X...X....X
 X...X.XX.X
 X...X.X..X
